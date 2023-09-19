@@ -3,7 +3,7 @@
 This Docker container image has [Parasoft C/C++test Professional](https://docs.parasoft.com/display/CPPTESTPROEC20231) tool installed 
 under `/opt/parasoft/` folder:
 
-- /opt/parasoft/cpptest-professional/cpptest/ (Professional)
+- /opt/parasoft/cpptest-professional/cpptest/
 
 ### Build Image
 
